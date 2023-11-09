@@ -23,6 +23,8 @@ pip install tk
 > [!NOTE]
 > _tkinter should automatically install with python, use the command in case you dont have it_
 
+Run **Main.py**
+
 ---
 TODO
 ===============
