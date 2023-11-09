@@ -9,7 +9,7 @@ Installation
 > [!WARNING]
 > _Python must be installed_
 <br>
-This Repo has already all it needs but, if you desire to download the modules, here are the modules i used. <br>
+This Repo has already all it needs but, if you desire to download the modules, here are the ones i used. <br>
 
 ```
 pip install pyperclip
